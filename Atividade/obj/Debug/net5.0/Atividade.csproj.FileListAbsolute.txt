@@ -1,0 +1,15 @@
+/Users/faissal/Desktop/SENAI/C/Atividade/bin/Debug/net5.0/Atividade.deps.json
+/Users/faissal/Desktop/SENAI/C/Atividade/bin/Debug/net5.0/Atividade.runtimeconfig.json
+/Users/faissal/Desktop/SENAI/C/Atividade/bin/Debug/net5.0/Atividade.runtimeconfig.dev.json
+/Users/faissal/Desktop/SENAI/C/Atividade/bin/Debug/net5.0/Atividade.dll
+/Users/faissal/Desktop/SENAI/C/Atividade/bin/Debug/net5.0/ref/Atividade.dll
+/Users/faissal/Desktop/SENAI/C/Atividade/bin/Debug/net5.0/Atividade.pdb
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.csproj.AssemblyReference.cache
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.AssemblyInfoInputs.cache
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.AssemblyInfo.cs
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.dll
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/ref/Atividade.dll
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.pdb
+/Users/faissal/Desktop/SENAI/C/Atividade/obj/Debug/net5.0/Atividade.genruntimeconfig.cache
